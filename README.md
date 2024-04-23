@@ -45,5 +45,5 @@
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-mariannefargnolli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariannefargnolli)](https://www.linkedin.com/in/mariannefargnolli)
-[![Gmail Badge](https://img.shields.io/badge/-ma.fargnolli@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ma.fargnolli@gmail.com)](mailto:ma.fargnolli@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-ma.fargnolli@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ma.fargnolli@gmail.com)](mailto:ma.fargnolli@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/mafargnolli?label=follow&style=social)](https://github.com/mafargnolli)
