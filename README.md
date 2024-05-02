@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, bem-vindos ao meu perfil! Me chamo Marianne, uma entusiasta das tecnologias! 👋
 
 ![](https://komarev.com/ghpvc/?username=mafargnolli&color=006bed)
 
